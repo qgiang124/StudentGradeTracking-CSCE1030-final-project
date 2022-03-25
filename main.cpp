@@ -1,8 +1,3 @@
-/* Author:  Giang Tran (giangtran2@my.unt.edu)
- * Date: 11/21/2021
- * Instructor: Dr. Asif Baba
- * Description: The program keeps track of grades of students using structures and files.
- */
 
 #include "gtt0023_header.h"
 
